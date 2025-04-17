@@ -1,6 +1,7 @@
 # Netflix-Data-Analysis
 Analyzed Netflix content data to uncover trends in genres, content types, release patterns, and regional contributions, providing insights into platform strategy and viewer preferences.
 Netflix Data Analysis Project
+
 📌 Project Overview
 
 This project focuses on analyzing Netflix content data to uncover trends in movie and TV show genres, release patterns, content ratings, and platform expansion. The objective is to provide insights that help understand Netflix’s content strategy and viewer preferences.
